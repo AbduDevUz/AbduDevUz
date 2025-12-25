@@ -35,7 +35,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p> 
 
+![GitHub Streak](https://streak-stats.demolab.com?user=AbduDevUz)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=AbduDevUz&show_icons=true&cache_seconds=86400)
+![Streak](https://streak-stats.demolab.com?user=AbduDevUz)
+
 
 
 

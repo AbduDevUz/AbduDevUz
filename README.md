@@ -35,11 +35,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p> 
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbduDevUz&show_icons=true&theme=react)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbduDevUz&show_icons=true&theme=react&cache_seconds=1800)
 
-### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbduDevUz&theme=react&layout=compact)
 
 
 ### Socials
